@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 👋
 
 <!--
 **phellinus/phellinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
