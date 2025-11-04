@@ -11,7 +11,7 @@
 - 🌱 正在学习：**react框架**
 - 🧰 常用栈：**TypeScript / React / Node.js / Ant Design / Vue / springboot**
 - 💬 欢迎交流：**前端工程化、Monorepo、CI/CD、RBAC 权限、JWT 认证**
-- ⚡ 梦想：**让编程再次伟大**
+- ⚡ 梦想：**去阿尔卑斯放羊**
 - 👯 个人博客[blog](https://www.sangyu.asia/)
 
 ## 🛠 Tech Stack
