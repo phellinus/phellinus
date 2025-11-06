@@ -45,9 +45,8 @@
 
 > 💡 还有很多项目在本地，没有上传github：
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phellinus&repo=NovaPanel)](https://github.com/phellinus/NovaPanel)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phellinus&repo=react-template)](https://github.com/phellinus/react-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phellinus&repo=NovaPanel)](https://github.com/phellinus/NovaPanel)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phellinus&repo=react-template)](https://github.com/phellinus/react-template)
 
 
 ## 📊 GitHub Stats
