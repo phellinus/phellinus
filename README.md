@@ -7,9 +7,10 @@
 </p>
 
 ## 🧭 About Me
-- 🔭 最近在做：**前端方向/打造组件库**
+- 🔭 最近在做：**前端方向/打造组件库/短链接**
 - 🌱 正在学习：**react框架**
-- 🧰 常用栈：**TypeScript / React / Node.js / Ant Design / Vue / springboot**
+- 🎯 未来打算：**希望能成为全栈，写出自己的程序**
+- 🧰 常用栈：**TypeScript / React / Node.js / Ant Design / Vue / Electron / springboot**
 - 💬 欢迎交流：**前端工程化、Monorepo、CI/CD、RBAC 权限、JWT 认证**
 - ⚡ 梦想：**去阿尔卑斯放羊**
 - 👯 个人博客[blog](https://www.sangyu.asia/)
@@ -50,10 +51,8 @@
 
 
 ## 📊 GitHub Stats
-<!--状态展示：-->
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=phellinus&show_icons=true&theme=tokyonight"/>
 
-<!--语言使用统计：-->
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phellinus&theme=radical&layout=compact"  />
+|![](https://github-readme-stats.vercel.app/api?username=phellinus&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=phellinus&size_weight=0.50&count_weight=0.50&langs_count=8)|
+|:---:|:---:|
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
