@@ -8,7 +8,7 @@
 
 ## 🧭 About Me
 - 🔭 最近在做：**前端：打造组件库/后端：短链接**
-- 🌱 我的爱好：**爬上、旅行、喜欢穷游、热爱编程**
+- 🌱 我的爱好：**爬山、旅行、喜欢穷游、热爱编程**
 - 🌿 **日常使用typescript和java语言，偏前端**
 - 🎯 未来打算：**希望能成为全栈，写出自己的程序**
 - 🧰 常用栈：**TypeScript / React / Node.js / Ant Design / Vue / Electron / springboot**
