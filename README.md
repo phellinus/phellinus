@@ -7,8 +7,9 @@
 </p>
 
 ## 🧭 About Me
-- 🔭 最近在做：**前端方向/打造组件库/短链接**
-- 🌱 正在学习：**react框架**
+- 🔭 最近在做：**前端：打造组件库/后端：短链接**
+- 🌱 我的爱好：**爬上、旅行、喜欢穷游、热爱编程**
+- 🌿 **日常使用typescript和java语言，偏前端**
 - 🎯 未来打算：**希望能成为全栈，写出自己的程序**
 - 🧰 常用栈：**TypeScript / React / Node.js / Ant Design / Vue / Electron / springboot**
 - 💬 欢迎交流：**前端工程化、Monorepo、CI/CD、RBAC 权限、JWT 认证**
