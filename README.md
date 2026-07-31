@@ -1,63 +1,79 @@
-<h1 align="center">Hello World! I'm Sangyu 👋</h1>
+<h1 align="center">Hello, I'm Sangyu 👋</h1>
+
 <p align="center">
-  <a href="https://github.com/<your-username>"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/<your-handle>/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:2249736997@qq.com>"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=phellinus&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <strong>Frontend Engineer · Component Library Builder · Exploring AI Agents</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/phellinus"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.sangyu.asia/"><img alt="Blog" src="https://img.shields.io/badge/Blog-0F766E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:2249736997@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=phellinus&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ## 🧭 About Me
-- 🏫 **毕业于浙江科技大学-计算机科学与技术专业**
+
+- 🎓 毕业于浙江科技大学，计算机科学与技术专业。
+- 💼 目前在职，好好上班。
+- 🧩 正在打造两套开源组件库：一套基于 **React**，一套基于 **Vue**。
+- 🤖 正在系统学习 LLM 应用与 AI Agent，关注它们如何真正融入开发工具和桌面应用。
+- 🚀 从前端出发，持续补齐 Node.js、Java 与后端工程能力，目标是独立构建完整产品。
+- 💬 乐于交流：前端工程化、Monorepo、CI/CD、RBAC 权限设计、JWT 认证。
+- 🌿 工作之外喜欢足球、爬山、旅行、穷游和魔方；理想是在阿尔卑斯山脚下放羊。
+
 ## 🎯 Current Focus
-### 🧠 主线任务
-- **上班中**
-- 🧩 **开源组件库 × 2**：开发自己的组件库，react一套，vue一套
-### 📌 寻找自己  
-- 🌱 我的爱好：**热爱编程、足球、爬山、旅行、喜欢穷游、魔方**
-- 🌿 **日常使用typescript和java语言，偏前端**
-- 🎯 未来打算：**希望能成为全栈，写出自己的程序**
-- 🧰 常用栈：**TypeScript / React / Node.js / Ant Design / Vue / Electron / springboot**
-- 💬 欢迎交流：**前端工程化、Monorepo、CI/CD、RBAC 权限、JWT 认证**
-- ⚡ 梦想：**去阿尔卑斯放羊**
-- 👯 个人博客[blog](https://www.sangyu.asia/)
+
+- 深耕 **TypeScript / React / Vue**，提升组件设计与工程化能力。
+- 推进个人组件库从 API 设计、文档到发布的完整闭环。
+- 通过真实项目实践 **Electron、Node.js 与 Spring Boot**，向全栈方向成长。
+- 学习 **AI Agent** 的基础能力与工程实践：模型调用、工具调用、工作流编排和应用落地。
 
 ## 🛠 Tech Stack
+
 <p>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-  <!-- Tooling -->
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Element%20UI-409EFF?logo=element&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+  <img alt="Element Plus" src="https://img.shields.io/badge/Element%20Plus-409EFF?style=flat-square&logo=elementplus&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="AI Agent" src="https://img.shields.io/badge/AI%20Agent-Learning-4F46E5?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ## 🚀 Featured Projects
-- **项目 ai桌面助手**  
-  简介: 与ai大模型对话的桌面应用软件   
-  技术：TypeScript, Vue , Electron , Node  
-- **项目 个人博客**  
-  简介：记录自己的学习的博客
-  技术：vitepress, CI/CD  
 
-> 💡 还有很多项目在本地，没有上传github：
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [NovaPanel](https://github.com/phellinus/NovaPanel) | 面向 AI 大模型对话的桌面应用，持续探索 Agent 能力与本地桌面端交互。 | TypeScript · Vue · Electron · Node.js |
+| [Personal Blog](https://www.sangyu.asia/) | 记录学习、实践与思考的个人博客。 | VitePress · CI/CD |
+| [React Template](https://github.com/phellinus/react-template) | 面向日常开发的 React 项目模板与工程化实践。 | React · TypeScript · Vite |
 
+> 还有一些仍在打磨的本地项目，准备好后会逐步开源。
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phellinus&repo=shortlink)](https://github.com/phellinus/NovaPanel)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phellinus&repo=react-template)](https://github.com/phellinus/react-template)
+## 📊 GitHub Activity
 
+<!-- These static SVGs are generated daily by .github/workflows/profile-summary-cards.yml. -->
+<p align="center">
+  <img width="100%" alt="Sangyu's GitHub activity" src="https://raw.githubusercontent.com/phellinus/phellinus/main/profile-summary-card-output/github/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img width="49%" alt="GitHub statistics" src="https://raw.githubusercontent.com/phellinus/phellinus/main/profile-summary-card-output/github/3-stats.svg" />
+  <img width="49%" alt="Top languages" src="https://raw.githubusercontent.com/phellinus/phellinus/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+</p>
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-|![](https://github-readme-stats.vercel.app/api?username=phellinus&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=phellinus&size_weight=0.50&count_weight=0.50&langs_count=8)|
-|:---:|:---:|
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phellinus/phellinus/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phellinus/phellinus/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/phellinus/phellinus/output/github-contribution-grid-snake.svg" />
+</picture>
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
+---
+
+<p align="center">Thanks for stopping by — happy to connect and build something useful together.</p>
