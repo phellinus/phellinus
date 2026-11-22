@@ -6,29 +6,30 @@
 
 <p align="center">
   <a href="https://github.com/phellinus"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.sangyu.asia/"><img alt="Blog" src="https://img.shields.io/badge/Blog-0F766E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://blog.sangyulab.top/"><img alt="Personal Blog" src="https://img.shields.io/badge/Personal%20Blog-0F766E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://vue.sangyulab.top/"><img alt="Sangyu UI Design" src="https://img.shields.io/badge/Sangyu%20UI%20Design-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /></a>
   <a href="mailto:2249736997@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=phellinus&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ## 🧭 About Me
 
-- 🎓 毕业于浙江科技大学，计算机科学与技术专业
-- 💼 目前在职，只能下班后写自己的东西了
-- 🧩 目前开源了一套vue的组件库，现在也许不太完美，后续会完善维护他
-- 🧩 还有一套react的组件库正在打造，希望年底可以开源
-- 🤖 正在系统学习 LLM 应用与 AI Agent，打算开发自己的工具
-- 🚀 从前端出发，后端有段时间没写了，但是我也不会放弃，
-- 💬 乐于交流：前端工程化、Monorepo、CI/CD、RBAC 权限设计、JWT 认证
-- 🌿 工作之外 -> 足球、爬山、旅行、徒步、穷游和魔方
-- 🏚️ 未来也许会在某个美丽的地方开一家民宿，在自己的院子里写写代码
+- 🎓 I graduated from Zhejiang University of Science and Technology in 2026 with a degree in computer science and technology. I started my first internship the summer after my junior year and have been learning ever since.
+- 💼 I work as a frontend engineer and build personal projects after work.
+- 🧩 I open-sourced a Vue component library and continue to improve and maintain it.
+- 🧩 I'm also building a React component library and hope to open-source it by the end of the year.
+- 🤖 I'm learning how to build LLM applications and AI agents so I can make tools of my own.
+- 🚀 My background is in frontend development, and I'd like to get back into writing backend code.
+- 💬 I enjoy talking about frontend tooling, monorepos, CI/CD, role-based access control, and JWT authentication.
+- 🌿 Outside work, I enjoy football, climbing mountains, hiking, traveling on a budget, and solving Rubik's Cubes.
+- 🏡 Someday, I'd love to run a guesthouse somewhere beautiful and write code in my own courtyard.
 
 ## 🎯 Current Focus
 
-- 深耕 **TypeScript / React / Vue**，提升组件设计与工程化能力。
-- 推进个人组件库从 API 设计、文档到发布的完整闭环。
-- 通过真实项目实践 **Electron、Node.js 与 Spring Boot**，向全栈方向成长。
-- 学习 **AI Agent** 的基础能力与工程实践：模型调用、工具调用、工作流编排和应用落地。
+- Deepening my knowledge of **TypeScript, React, and Vue** through component design and frontend tooling.
+- Taking my component libraries from API design through documentation and release.
+- Building full-stack skills by using **Electron, Node.js, and Spring Boot** in real projects.
+- Learning to build **AI agents** by working with model APIs, tool calling, and workflow orchestration.
 
 ## 🛠 Tech Stack
 
@@ -49,13 +50,19 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [NovaPanel](https://github.com/phellinus/NovaPanel) | 面向 AI 大模型对话的桌面应用，持续探索 Agent 能力与本地桌面端交互。 | TypeScript · Vue · Electron · Node.js |
-| [Personal Blog](https://www.sangyu.asia/) | 记录学习、实践与思考的个人博客。 | VitePress · CI/CD |
-| [React Template](https://github.com/phellinus/react-template) | 面向日常开发的 React 项目模板与工程化实践。 | React · TypeScript · Vite |
+### [Sangyu UI](https://vue.sangyulab.top/)
 
-> 还有一些仍在打磨的本地项目，准备好后会逐步开源。
+An open-source Vue component library for building web interfaces.
+
+### [Lumen Drift](https://github.com/phellinus/vscode-theme-lumen-drift)
+
+A color theme for Visual Studio Code.
+
+### [React Template](https://github.com/phellinus/react-template)
+
+A starter template for React projects built with TypeScript and Vite.
+
+> I'm working on a few more projects and will open-source them when they're ready.
 
 ## 📊 GitHub Activity
 
