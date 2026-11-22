@@ -50,17 +50,11 @@
 
 ## 🚀 Featured Projects
 
-### [Sangyu UI](https://vue.sangyulab.top/)
-
-An open-source Vue component library for building web interfaces.
-
-### [Lumen Drift](https://github.com/phellinus/vscode-theme-lumen-drift)
-
-A color theme for Visual Studio Code.
-
-### [React Template](https://github.com/phellinus/react-template)
-
-A starter template for React projects built with TypeScript and Vite.
+| Project | Description |
+| :--- | :--- |
+| **[Sangyu UI](https://vue.sangyulab.top/)** | An open-source Vue component library for building web interfaces. |
+| **[Lumen Drift](https://github.com/phellinus/vscode-theme-lumen-drift)** | A color theme for Visual Studio Code. |
+| **[React Template](https://github.com/phellinus/react-template)** | A starter template for React projects built with TypeScript and Vite. |
 
 > I'm working on a few more projects and will open-source them when they're ready.
 
