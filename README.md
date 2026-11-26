@@ -26,55 +26,31 @@ Outside work, I enjoy football, hiking, climbing mountains, traveling on a budge
 
 ## 🚀 Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th align="left" scope="col">Project</th>
-      <th align="left" scope="col">Overview &amp; Technical Details</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <strong><a href="https://github.com/phellinus/sangyu-ui">Sangyu UI</a></strong><br />
-        <a href="https://vue.sangyulab.top/">Docs</a>
-      </td>
-      <td>
-        <p>An open-source component library for building Vue interfaces.</p>
-        <ul>
-          <li>Built with Vue 3 and TypeScript, with type declarations and on-demand component imports.</li>
-          <li>Uses CSS custom properties for theming and ships icons in a separate <code>@sangyu-ui/icons</code> package.</li>
-          <li>Vite builds the library, VitePress powers the docs, and Vitest runs component tests.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <strong><a href="https://github.com/phellinus/vscode-theme-lumen-drift">Lumen Drift</a></strong><br />
-        <a href="https://marketplace.visualstudio.com/items?itemName=sangyu-phellinus.lumen-drift-theme">Marketplace</a>
-      </td>
-      <td>
-        <p>A VS Code color theme with light and dark variants in a single extension.</p>
-        <ul>
-          <li>Uses TextMate scopes and semantic tokens to style syntax and symbols.</li>
-          <li>Coordinates editor colors with the workbench, including tabs, the sidebar, panels, and the terminal.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <strong><a href="https://github.com/phellinus/react-template">React Template</a></strong>
-      </td>
-      <td>
-        <p>A starter template for new React applications.</p>
-        <ul>
-          <li>Uses React for the UI and TypeScript for static type checking.</li>
-          <li>Uses Vite for the local development server and production builds.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+### [Sangyu UI](https://github.com/phellinus/sangyu-ui)
+
+An open-source component library for building Vue interfaces.
+
+- Built with Vue 3 and TypeScript, with type declarations and on-demand component imports.
+- Uses CSS custom properties for theming and ships icons in a separate `@sangyu-ui/icons` package.
+- Vite builds the library, VitePress powers the docs, and Vitest runs component tests.
+
+[Read the docs](https://vue.sangyulab.top/)
+
+### [Lumen Drift](https://github.com/phellinus/vscode-theme-lumen-drift)
+
+A VS Code color theme with light and dark variants in a single extension.
+
+- Uses TextMate scopes and semantic tokens to style syntax and symbols.
+- Coordinates editor colors with the workbench, including tabs, the sidebar, panels, and the terminal.
+
+[View on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sangyu-phellinus.lumen-drift-theme)
+
+### [React Template](https://github.com/phellinus/react-template)
+
+A starter template for new React applications.
+
+- Uses React for the UI and TypeScript for static type checking.
+- Uses Vite for the local development server and production builds.
 
 > I'm working on a few more projects and will open-source them when they're ready.
 
