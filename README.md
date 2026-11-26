@@ -1,10 +1,22 @@
-<h1 align="center">Hello, I'm Sangyu 👋</h1>
+# Hi, I'm Sangyu 👋
 
-<p align="center">
-  <strong>Frontend Engineer · Component Library Builder · Exploring AI Agents</strong>
-</p>
+**Frontend Engineer · Building Component Libraries · Exploring AI Agents**
 
-<p align="center">
+I graduated from Zhejiang University of Science and Technology in 2026 with a degree in computer science and technology. I started my first internship the summer after my junior year and have been learning ever since. I now work as a frontend engineer and build my own projects after work.
+
+I maintain an open-source Vue component library and am building a React component library that I hope to open-source by the end of the year.
+
+**Current interests**
+
+- 🧩 Component API design and theming with TypeScript, Vue, and React
+- 🛠 Frontend tooling, monorepos, documentation, and CI/CD
+- 🤖 Building LLM applications and AI agents with model APIs, tool calling, and workflow orchestration
+- ⚙️ Full-stack and desktop development with Electron, Node.js, and Spring Boot
+- 🔐 Authentication and access control with JWT and RBAC
+
+Outside work, I enjoy football, hiking, climbing mountains, traveling on a budget, and solving Rubik's Cubes. Someday, I'd love to run a guesthouse somewhere beautiful and write code in my own courtyard.
+
+<p>
   <a href="https://github.com/phellinus"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://blog.sangyulab.top/"><img alt="Personal Blog" src="https://img.shields.io/badge/Personal%20Blog-0F766E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://vue.sangyulab.top/"><img alt="Sangyu UI Design" src="https://img.shields.io/badge/Sangyu%20UI%20Design-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /></a>
@@ -12,24 +24,59 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=phellinus&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-## 🧭 About Me
+## 🚀 Featured Projects
 
-- 🎓 I graduated from Zhejiang University of Science and Technology in 2026 with a degree in computer science and technology. I started my first internship the summer after my junior year and have been learning ever since.
-- 💼 I work as a frontend engineer and build personal projects after work.
-- 🧩 I open-sourced a Vue component library and continue to improve and maintain it.
-- 🧩 I'm also building a React component library and hope to open-source it by the end of the year.
-- 🤖 I'm learning how to build LLM applications and AI agents so I can make tools of my own.
-- 🚀 My background is in frontend development, and I'd like to get back into writing backend code.
-- 💬 I enjoy talking about frontend tooling, monorepos, CI/CD, role-based access control, and JWT authentication.
-- 🌿 Outside work, I enjoy football, climbing mountains, hiking, traveling on a budget, and solving Rubik's Cubes.
-- 🏡 Someday, I'd love to run a guesthouse somewhere beautiful and write code in my own courtyard.
+<table>
+  <thead>
+    <tr>
+      <th align="left" scope="col">Project</th>
+      <th align="left" scope="col">Overview &amp; Technical Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <strong><a href="https://github.com/phellinus/sangyu-ui">Sangyu UI</a></strong><br />
+        <a href="https://vue.sangyulab.top/">Docs</a>
+      </td>
+      <td>
+        <p>An open-source component library for building Vue interfaces.</p>
+        <ul>
+          <li>Built with Vue 3 and TypeScript, with type declarations and on-demand component imports.</li>
+          <li>Uses CSS custom properties for theming and ships icons in a separate <code>@sangyu-ui/icons</code> package.</li>
+          <li>Vite builds the library, VitePress powers the docs, and Vitest runs component tests.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong><a href="https://github.com/phellinus/vscode-theme-lumen-drift">Lumen Drift</a></strong><br />
+        <a href="https://marketplace.visualstudio.com/items?itemName=sangyu-phellinus.lumen-drift-theme">Marketplace</a>
+      </td>
+      <td>
+        <p>A VS Code color theme with light and dark variants in a single extension.</p>
+        <ul>
+          <li>Uses TextMate scopes and semantic tokens to style syntax and symbols.</li>
+          <li>Coordinates editor colors with the workbench, including tabs, the sidebar, panels, and the terminal.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong><a href="https://github.com/phellinus/react-template">React Template</a></strong>
+      </td>
+      <td>
+        <p>A starter template for new React applications.</p>
+        <ul>
+          <li>Uses React for the UI and TypeScript for static type checking.</li>
+          <li>Uses Vite for the local development server and production builds.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## 🎯 Current Focus
-
-- Deepening my knowledge of **TypeScript, React, and Vue** through component design and frontend tooling.
-- Taking my component libraries from API design through documentation and release.
-- Building full-stack skills by using **Electron, Node.js, and Spring Boot** in real projects.
-- Learning to build **AI agents** by working with model APIs, tool calling, and workflow orchestration.
+> I'm working on a few more projects and will open-source them when they're ready.
 
 ## 🛠 Tech Stack
 
@@ -47,16 +94,6 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="AI Agent" src="https://img.shields.io/badge/AI%20Agent-Learning-4F46E5?style=flat-square&logo=openai&logoColor=white" />
 </p>
-
-## 🚀 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| **[Sangyu UI](https://vue.sangyulab.top/)** | An open-source Vue component library for building web interfaces. |
-| **[Lumen Drift](https://github.com/phellinus/vscode-theme-lumen-drift)** | A color theme for Visual Studio Code. |
-| **[React Template](https://github.com/phellinus/react-template)** | A starter template for React projects built with TypeScript and Vite. |
-
-> I'm working on a few more projects and will open-source them when they're ready.
 
 ## 📊 GitHub Activity
 
